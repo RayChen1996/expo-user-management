@@ -14,7 +14,7 @@
 - React Native
 - Expo
 - React Navigation
-- React Native Paper (UI 組件庫)
+- React Native Elements (UI 組件庫)
 
 ### 後端
 
